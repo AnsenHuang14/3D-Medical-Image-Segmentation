@@ -1,0 +1,345 @@
+Data loader mode: training
+Number of training/validation samples: 67 / 23
+Number of paras: 496683
+----------- epoch: 1 -----------
+Epoch: 1 Training Loss:  0.7777588022719338 Valid Loss:  0.742521791059277
+Model saved!
+----------- epoch: 2 -----------
+Epoch: 2 Training Loss:  0.7523982527536798 Valid Loss:  0.737948858029535
+Model saved!
+----------- epoch: 3 -----------
+Epoch: 3 Training Loss:  0.7405403330099188 Valid Loss:  0.7241595816357227
+Model saved!
+----------- epoch: 4 -----------
+Epoch: 4 Training Loss:  0.7270063041438111 Valid Loss:  0.7030637589575157
+Model saved!
+----------- epoch: 5 -----------
+Epoch: 5 Training Loss:  0.7140391948104903 Valid Loss:  0.6918855023988361
+Model saved!
+----------- epoch: 6 -----------
+Epoch: 6 Training Loss:  0.7004156482752258 Valid Loss:  0.6784719636515356
+Model saved!
+----------- epoch: 7 -----------
+Epoch: 7 Training Loss:  0.6869165649881814 Valid Loss:  0.6944409784359455
+----------- epoch: 8 -----------
+Epoch: 8 Training Loss:  0.67231056120536 Valid Loss:  0.6568025325439004
+Model saved!
+----------- epoch: 9 -----------
+Epoch: 9 Training Loss:  0.65609697291297 Valid Loss:  0.6224590578907693
+Model saved!
+----------- epoch: 10 -----------
+Epoch: 10 Training Loss:  0.6395565527112312 Valid Loss:  0.6181415259853541
+Model saved!
+----------- epoch: 11 -----------
+Epoch: 11 Training Loss:  0.6230889321399463 Valid Loss:  0.5968660820273949
+Model saved!
+----------- epoch: 12 -----------
+Epoch: 12 Training Loss:  0.6040415921768898 Valid Loss:  0.5747510188538432
+Model saved!
+----------- epoch: 13 -----------
+Epoch: 13 Training Loss:  0.586878686531022 Valid Loss:  0.5491535613181231
+Model saved!
+----------- epoch: 14 -----------
+Epoch: 14 Training Loss:  0.5669714537402893 Valid Loss:  0.554144558897994
+----------- epoch: 15 -----------
+Epoch: 15 Training Loss:  0.5460677575618658 Valid Loss:  0.5139902786377402
+Model saved!
+----------- epoch: 16 -----------
+Epoch: 16 Training Loss:  0.5279627637943292 Valid Loss:  0.5131299003395281
+Model saved!
+----------- epoch: 17 -----------
+Epoch: 17 Training Loss:  0.5104282382012382 Valid Loss:  0.4815156866464015
+Model saved!
+----------- epoch: 18 -----------
+Epoch: 18 Training Loss:  0.4904442794780039 Valid Loss:  0.4596883890015891
+Model saved!
+----------- epoch: 19 -----------
+Epoch: 19 Training Loss:  0.4698302828207258 Valid Loss:  0.43984617127756176
+Model saved!
+----------- epoch: 20 -----------
+Epoch: 20 Training Loss:  0.4505059955247697 Valid Loss:  0.4320727126005149
+Model saved!
+----------- epoch: 21 -----------
+Epoch: 21 Training Loss:  0.4317594384403097 Valid Loss:  0.41154975042881126
+Model saved!
+----------- epoch: 22 -----------
+Epoch: 22 Training Loss:  0.4118741810142653 Valid Loss:  0.3823763886046066
+Model saved!
+----------- epoch: 23 -----------
+Epoch: 23 Training Loss:  0.39314717283227973 Valid Loss:  0.36602773574129915
+Model saved!
+----------- epoch: 24 -----------
+Epoch: 24 Training Loss:  0.37615294189334797 Valid Loss:  0.36014253238475297
+Model saved!
+----------- epoch: 25 -----------
+Epoch: 25 Training Loss:  0.35810345783469605 Valid Loss:  0.3429864169775339
+Model saved!
+----------- epoch: 26 -----------
+Epoch: 26 Training Loss:  0.34399953629695357 Valid Loss:  0.34303613970801355
+----------- epoch: 27 -----------
+Epoch: 27 Training Loss:  0.335234812079166 Valid Loss:  0.33168218980923564
+Model saved!
+----------- epoch: 28 -----------
+Epoch: 28 Training Loss:  0.31659253345510535 Valid Loss:  0.30146060788986645
+Model saved!
+----------- epoch: 29 -----------
+Epoch: 29 Training Loss:  0.30360237673574003 Valid Loss:  0.2767108530774461
+Model saved!
+----------- epoch: 30 -----------
+Epoch: 30 Training Loss:  0.2874633803399968 Valid Loss:  0.2785868886732219
+----------- epoch: 31 -----------
+Epoch: 31 Training Loss:  0.27233617594348014 Valid Loss:  0.2493801298352261
+Model saved!
+----------- epoch: 32 -----------
+Epoch: 32 Training Loss:  0.26004012985519837 Valid Loss:  0.2499564694376564
+----------- epoch: 33 -----------
+Epoch: 33 Training Loss:  0.2494268383644405 Valid Loss:  0.24072615748207427
+Model saved!
+----------- epoch: 34 -----------
+Epoch: 34 Training Loss:  0.23829482956104947 Valid Loss:  0.21529158644809718
+Model saved!
+----------- epoch: 35 -----------
+Epoch: 35 Training Loss:  0.22866976275596937 Valid Loss:  0.22034697122924354
+----------- epoch: 36 -----------
+Epoch: 36 Training Loss:  0.21750076540258823 Valid Loss:  0.21118586123762614
+Model saved!
+----------- epoch: 37 -----------
+Epoch: 37 Training Loss:  0.20872625640407666 Valid Loss:  0.2191956588324322
+----------- epoch: 38 -----------
+Epoch: 38 Training Loss:  0.20201040006373025 Valid Loss:  0.1963789766472533
+Model saved!
+----------- epoch: 39 -----------
+Epoch: 39 Training Loss:  0.1961007185828571 Valid Loss:  0.18359950156166546
+Model saved!
+----------- epoch: 40 -----------
+Epoch: 40 Training Loss:  0.18597977394308218 Valid Loss:  0.18463399203448716
+----------- epoch: 41 -----------
+Epoch: 41 Training Loss:  0.1775204761039865 Valid Loss:  0.17617740412318525
+Model saved!
+----------- epoch: 42 -----------
+Epoch: 42 Training Loss:  0.1701589496007324 Valid Loss:  0.18027289355374612
+----------- epoch: 43 -----------
+Epoch: 43 Training Loss:  0.162877419419763 Valid Loss:  0.15722981466169958
+Model saved!
+----------- epoch: 44 -----------
+Epoch: 44 Training Loss:  0.15710896669623492 Valid Loss:  0.17320251494035005
+----------- epoch: 45 -----------
+Epoch: 45 Training Loss:  0.15236836572474294 Valid Loss:  0.15718283191482643
+Model saved!
+----------- epoch: 46 -----------
+Epoch: 46 Training Loss:  0.1493736487226043 Valid Loss:  0.15116013701352812
+Model saved!
+----------- epoch: 47 -----------
+Epoch: 47 Training Loss:  0.1439037728475997 Valid Loss:  0.15719649027675014
+----------- epoch: 48 -----------
+
+Data loader mode: training
+Number of training/validation samples: 67 / 23
+Number of paras: 496683
+----------- epoch: 1 -----------
+Epoch: 1 Training Loss:  0.7777165333100247 Valid Loss:  0.7585677029350211
+Model saved!
+----------- epoch: 2 -----------
+Epoch: 2 Training Loss:  0.7536421291988785 Valid Loss:  0.7309055702276553
+Model saved!
+----------- epoch: 3 -----------
+Epoch: 3 Training Loss:  0.7414285486513624 Valid Loss:  0.7179208680546327
+Model saved!
+----------- epoch: 4 -----------
+Epoch: 4 Training Loss:  0.7295537538616104 Valid Loss:  0.7022024828849492
+Model saved!
+----------- epoch: 5 -----------
+Epoch: 5 Training Loss:  0.7157093036263111 Valid Loss:  0.6929532308061762
+Model saved!
+----------- epoch: 6 -----------
+Epoch: 6 Training Loss:  0.7033273880605062 Valid Loss:  0.673752967106797
+Model saved!
+----------- epoch: 7 -----------
+Epoch: 7 Training Loss:  0.6879148985789377 Valid Loss:  0.6826689215475978
+----------- epoch: 8 -----------
+Epoch: 8 Training Loss:  0.6748438869624368 Valid Loss:  0.6382570530057
+Model saved!
+----------- epoch: 9 -----------
+Epoch: 9 Training Loss:  0.6574310481426061 Valid Loss:  0.6327458161386756
+Model saved!
+----------- epoch: 10 -----------
+Epoch: 10 Training Loss:  0.6418951354141823 Valid Loss:  0.6093573317261237
+Model saved!
+----------- epoch: 11 -----------
+Epoch: 11 Training Loss:  0.6235150968777006 Valid Loss:  0.5920978981789985
+Model saved!
+----------- epoch: 12 -----------
+Epoch: 12 Training Loss:  0.6075693912507473 Valid Loss:  0.6663181119027213
+----------- epoch: 13 -----------
+Epoch: 13 Training Loss:  0.5917079070217218 Valid Loss:  0.6178719081845625
+----------- epoch: 14 -----------
+Epoch: 14 Training Loss:  0.5710091091505171 Valid Loss:  0.5381285243354121
+Model saved!
+----------- epoch: 15 -----------
+Epoch: 15 Training Loss:  0.5499574430681204 Valid Loss:  0.527661778532768
+Model saved!
+----------- epoch: 16 -----------
+Epoch: 16 Training Loss:  0.5309560451975975 Valid Loss:  0.5108930786935563
+Model saved!
+----------- epoch: 17 -----------
+Epoch: 17 Training Loss:  0.5126457937836537 Valid Loss:  0.49312428132064356
+Model saved!
+----------- epoch: 18 -----------
+Epoch: 18 Training Loss:  0.4945266769589789 Valid Loss:  0.46726738529559636
+Model saved!
+----------- epoch: 19 -----------
+Epoch: 19 Training Loss:  0.4765588914324085 Valid Loss:  0.47425317276434437
+----------- epoch: 20 -----------
+Epoch: 20 Training Loss:  0.45525932207470526 Valid Loss:  0.4266267018868169
+Model saved!
+----------- epoch: 21 -----------
+Epoch: 21 Training Loss:  0.43577533435230187 Valid Loss:  0.41613447287272637
+Model saved!
+----------- epoch: 22 -----------
+Epoch: 22 Training Loss:  0.415880620414613 Valid Loss:  0.39662554160786917
+Model saved!
+----------- epoch: 23 -----------
+Epoch: 23 Training Loss:  0.3977520407448884 Valid Loss:  0.39432908231255737
+Model saved!
+----------- epoch: 24 -----------
+Epoch: 24 Training Loss:  0.3817255739865511 Valid Loss:  0.35873948170117054
+Model saved!
+----------- epoch: 25 -----------
+Epoch: 25 Training Loss:  0.3645475857675079 Valid Loss:  0.36313474878637264
+----------- epoch: 26 -----------
+Epoch: 26 Training Loss:  0.3468861671845015 Valid Loss:  0.3326565896342925
+Model saved!
+----------- epoch: 27 -----------
+Epoch: 27 Training Loss:  0.33264810182655025 Valid Loss:  0.3010288866443013
+Model saved!
+----------- epoch: 28 -----------
+Epoch: 28 Training Loss:  0.31709557730964255 Valid Loss:  0.2838461141417373
+Model saved!
+----------- epoch: 29 -----------
+Epoch: 29 Training Loss:  0.3040320622150673 Valid Loss:  0.28715472120322144
+----------- epoch: 30 -----------
+Epoch: 30 Training Loss:  0.29358314392751916 Valid Loss:  0.28105999082280686
+Model saved!
+----------- epoch: 31 -----------
+Epoch: 31 Training Loss:  0.2765593772748168 Valid Loss:  0.2633618760348427
+Model saved!
+----------- epoch: 32 -----------
+Epoch: 32 Training Loss:  0.26449715680825137 Valid Loss:  0.2726039617652025
+----------- epoch: 33 -----------
+Epoch: 33 Training Loss:  0.2524173449544372 Valid Loss:  0.24960009333706534
+Model saved!
+----------- epoch: 34 -----------
+Epoch: 34 Training Loss:  0.24079998023311386 Valid Loss:  0.24781911987257094
+Model saved!
+----------- epoch: 35 -----------
+Epoch: 35 Training Loss:  0.23184264717856118 Valid Loss:  0.24483348871701616
+Model saved!
+----------- epoch: 36 -----------
+Epoch: 36 Training Loss:  0.22143061607346415 Valid Loss:  0.21803857065252963
+Model saved!
+----------- epoch: 37 -----------
+Epoch: 37 Training Loss:  0.21245268232937164 Valid Loss:  0.2290771675738889
+----------- epoch: 38 -----------
+Epoch: 38 Training Loss:  0.20232152027630104 Valid Loss:  0.2060612896776122
+Model saved!
+----------- epoch: 39 -----------
+Epoch: 39 Training Loss:  0.19395661889649643 Valid Loss:  0.20675438281414263
+----------- epoch: 40 -----------
+Epoch: 40 Training Loss:  0.18705185012669773 Valid Loss:  0.1981593716384805
+Model saved!
+----------- epoch: 41 -----------
+Epoch: 41 Training Loss:  0.178971775575173 Valid Loss:  0.18662038980969847
+Model saved!
+----------- epoch: 42 -----------
+Epoch: 42 Training Loss:  0.17169045996339843 Valid Loss:  0.17664702123651427
+Model saved!
+----------- epoch: 43 -----------
+Epoch: 43 Training Loss:  0.16513593267292107 Valid Loss:  0.17690911743305196
+----------- epoch: 44 -----------
+Epoch: 44 Training Loss:  0.1635199310914592 Valid Loss:  0.3656289010911929
+----------- epoch: 45 -----------
+Epoch: 45 Training Loss:  0.1580710175814255 Valid Loss:  0.16168033160970352
+Model saved!
+----------- epoch: 46 -----------
+Epoch: 46 Training Loss:  0.14848063924162253 Valid Loss:  0.16917221081869788
+----------- epoch: 47 -----------
+Epoch: 47 Training Loss:  0.14170080593846526 Valid Loss:  0.15288370761645553
+Model saved!
+----------- epoch: 48 -----------
+Epoch: 48 Training Loss:  0.13654050314939467 Valid Loss:  0.1451870842774954
+Model saved!
+----------- epoch: 49 -----------
+Epoch: 49 Training Loss:  0.13343901259689056 Valid Loss:  0.15553982729728544
+----------- epoch: 50 -----------
+Epoch: 50 Training Loss:  0.12828384840735546 Valid Loss:  0.1530871252008359
+----------- epoch: 51 -----------
+Epoch: 51 Training Loss:  0.12371364236703071 Valid Loss:  0.15153782928074538
+----------- epoch: 52 -----------
+Epoch: 52 Training Loss:  0.12002375334741314 Valid Loss:  0.14251446558556882
+Model saved!
+----------- epoch: 53 -----------
+Epoch: 53 Training Loss:  0.11745876566184749 Valid Loss:  0.13694264729952565
+Model saved!
+----------- epoch: 54 -----------
+Epoch: 54 Training Loss:  0.11265264953897654 Valid Loss:  0.1374671057796285
+----------- epoch: 55 -----------
+Epoch: 55 Training Loss:  0.11356994879402518 Valid Loss:  0.15211490642110834
+----------- epoch: 56 -----------
+Epoch: 56 Training Loss:  0.10826715526806582 Valid Loss:  0.1481982022623494
+----------- epoch: 57 -----------
+Epoch: 57 Training Loss:  0.1031916218718074 Valid Loss:  0.11541744004991346
+Model saved!
+----------- epoch: 58 -----------
+Epoch: 58 Training Loss:  0.09901233949441295 Valid Loss:  0.1288979655939739
+----------- epoch: 59 -----------
+Epoch: 59 Training Loss:  0.09679105483345482 Valid Loss:  0.15158421133579444
+----------- epoch: 60 -----------
+Epoch: 60 Training Loss:  0.09386523090477328 Valid Loss:  0.11284014495060833
+Model saved!
+----------- epoch: 61 -----------
+Epoch: 61 Training Loss:  0.09063299603636121 Valid Loss:  0.12972538136578807
+----------- epoch: 62 -----------
+Epoch: 62 Training Loss:  0.08815840903202761 Valid Loss:  0.1386577148528858
+----------- epoch: 63 -----------
+Epoch: 63 Training Loss:  0.08581038846713804 Valid Loss:  0.12137857787804737
+----------- epoch: 64 -----------
+Epoch: 64 Training Loss:  0.0841597713358492 Valid Loss:  0.10911437244801203
+Model saved!
+----------- epoch: 65 -----------
+Epoch: 65 Training Loss:  0.08148770638086913 Valid Loss:  0.1478990984521864
+----------- epoch: 66 -----------
+Epoch: 66 Training Loss:  0.07835069050493182 Valid Loss:  0.1047770927540585
+Model saved!
+----------- epoch: 67 -----------
+Epoch: 67 Training Loss:  0.07740577372978566 Valid Loss:  0.11155054240778191
+----------- epoch: 68 -----------
+Epoch: 68 Training Loss:  0.0748086587202448 Valid Loss:  0.12256373311777807
+----------- epoch: 69 -----------
+Epoch: 69 Training Loss:  0.07307596171963804 Valid Loss:  0.10343683371752377
+Model saved!
+----------- epoch: 70 -----------
+Epoch: 70 Training Loss:  0.07079977213707125 Valid Loss:  0.09732949477206464
+Model saved!
+----------- epoch: 71 -----------
+Epoch: 71 Training Loss:  0.06955241062991359 Valid Loss:  0.10661112834614464
+----------- epoch: 72 -----------
+Epoch: 72 Training Loss:  0.06726333477230413 Valid Loss:  0.15764155174223718
+----------- epoch: 73 -----------
+Epoch: 73 Training Loss:  0.06517202347651845 Valid Loss:  0.12879482089796496
+----------- epoch: 74 -----------
+Epoch: 74 Training Loss:  0.06346063234795993 Valid Loss:  0.09132270800192925
+Model saved!
+----------- epoch: 75 -----------
+Epoch: 75 Training Loss:  0.06266516282059302 Valid Loss:  0.10098846468896848
+----------- epoch: 76 -----------
+Epoch: 76 Training Loss:  0.06067438884878092 Valid Loss:  0.10219570290875982
+----------- epoch: 77 -----------
+Epoch: 77 Training Loss:  0.05883244482911291 Valid Loss:  0.09285328751502775
+----------- epoch: 78 -----------
+Epoch: 78 Training Loss:  0.05980190224591781 Valid Loss:  0.0948211733764286
+----------- epoch: 79 -----------
+Epoch: 79 Training Loss:  0.05890756068041501 Valid Loss:  0.09140709538105347
+----------- epoch: 80 -----------
+Epoch: 80 Training Loss:  0.055592886870170694 Valid Loss:  0.09471441515678031
+======== Early stop at epoch  80 ==========
+train history: 80 ,validate history: 80
